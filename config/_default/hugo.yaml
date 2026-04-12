@@ -4,7 +4,7 @@
 # This file is formatted using YAML syntax - learn more at https://learnxinyminutes.com/docs/yaml/
 
 title: 山东大学数学与统计学院图染色课题组 # Website name
-baseURL: 'https://SDU-WH-GraphTheory.github.io/' # Website URL
+baseURL: 'https://sdu-wh-graphtheory.github.io/'
 
 ############################
 ## LANGUAGE
