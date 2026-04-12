@@ -1,0 +1,56 @@
+# .github/workflows/hugo-deploy.yml
+name: Deploy Hugo Site to GitHub Pages
+
+# 触发条件：推送到 main 分支，或手动触发
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch:
+
+# 权限配置（必须，否则无法部署）
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+# 并发控制：避免多次部署冲突
+concurrency:
+  group: "pages"
+  cancel-in-progress: false
+
+jobs:
+  # 构建任务
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+        with:
+          submodules: true  # 如果你用了主题子模块，必须开启
+          fetch-depth: 0
+
+      - name: Setup Hugo
+        uses: peaceiris/actions-hugo@v2
+        with:
+          hugo-version: 'latest'  # 用最新版Hugo
+          extended: true          # 开启扩展版（支持sass等）
+
+      - name: Build Hugo site
+        run: hugo --minify --gc  # 压缩+清理冗余文件
+
+      - name: Upload build artifact
+        uses: actions/upload-pages-artifact@v3
+        with:
+          path: ./public  # Hugo编译后的静态文件目录
+
+  # 部署任务
+  deploy:
+    needs: build
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Deploy to GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v4
