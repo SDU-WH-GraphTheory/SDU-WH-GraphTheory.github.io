@@ -72,7 +72,7 @@ features:
   privacy_pack:
     enable: false
   repository:
-    url: 'https://github.com/SDU-WH-GraphTheory/SDU-WH-GraphTheory'
+    url: 'https://github.com/SDU-WH-GraphTheory/SDU-WH-GraphTheory.github.io'
     content_dir: content
     branch: main
   avatar:
