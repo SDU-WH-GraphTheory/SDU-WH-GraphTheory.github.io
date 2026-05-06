@@ -18,7 +18,7 @@ marketing:
     site_type: Organization
     local_business_type: ''
     org_name: ''
-    description: '山东大学数学与统计学院图染色课题组'
+    description: '山大威海图染色课题组'
     twitter: ''
   analytics:
     google_analytics: ''
@@ -45,7 +45,7 @@ header:
 
 footer:
   copyright:
-    notice: '© {year} 山东大学数学与统计学院图染色课题组'
+    notice: '© {year} 山大威海图染色课题组'
     license:
       enable: true
       allow_derivatives: false
