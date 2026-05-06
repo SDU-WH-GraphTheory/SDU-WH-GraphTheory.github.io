@@ -4,9 +4,6 @@
 #   The weight parameter defines the order that the links will appear in.
 
 main:
-  - name: 关于我们
-    url: tour
-    weight: 10
   - name: 近闻
     url: post
     weight: 20

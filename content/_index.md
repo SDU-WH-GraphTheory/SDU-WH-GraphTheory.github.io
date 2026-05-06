@@ -1,7 +1,4 @@
 ---
-title: 关于我们
-date: 2022-10-24
-
 type: landing
 
 sections:
@@ -9,7 +6,7 @@ sections:
     content:
       slides:
       - title: 👋 欢迎来到宋慧敏老师课题组网站！
-        content: 山东大学数学与统计学院 | 专注图论研究
+        content: 山大威海图染色课题组 | 专注图论研究
         align: center
         background:
           color: '#666'
@@ -27,7 +24,7 @@ sections:
           icon: graduation-cap
           icon_pack: fas
           text: 加入我们
-          url: ../contact/
+          url: contact/
     design:
       slide_height: ''
       is_fullscreen: true
