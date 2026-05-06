@@ -1,0 +1,10 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+public/
+assets/jsconfig.json

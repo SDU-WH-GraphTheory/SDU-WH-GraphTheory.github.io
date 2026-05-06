@@ -1,0 +1,10 @@
+name = "SDU-WH Graph Theory Group"
+license = "MIT"
+licenselink = "https://github.com/wowchemy/starter-hugo-research-group/blob/main/LICENSE.md"
+description = "山东大学数学与统计学院图染色课题组网站"
+homepage = "https://sdu-wh-graphtheory.github.io/"
+tags = ["academic", "research", "graph theory", "mathematics"]
+
+[author]
+  name = "SDU-WH GraphTheory Group"
+  homepage = "https://sdu-wh-graphtheory.github.io/"
