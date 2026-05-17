@@ -20,10 +20,6 @@ all_day: false
 publishDate: '2025-10-09T12:00:00+08:00'
 authors: [付智旋]
 featured: false
-image:
-  caption: '第7期讨论班海报'
-  focal_point: Right
-  filename: poster.webp
 math: true
 ---
 

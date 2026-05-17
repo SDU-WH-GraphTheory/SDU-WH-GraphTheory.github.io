@@ -20,10 +20,6 @@ all_day: false
 publishDate: '2025-10-29T12:00:00+08:00'
 authors: [路宇轩]
 featured: false
-image:
-  caption: '第9期讨论班海报'
-  focal_point: Right
-  filename: poster.webp
 math: true
 ---
 
