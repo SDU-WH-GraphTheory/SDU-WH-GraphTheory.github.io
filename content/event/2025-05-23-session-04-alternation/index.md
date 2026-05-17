@@ -1,5 +1,5 @@
 ---
-title: "交替方法（Alternation Method）"
+title: "第四期图论与组合数学读书班"
 event: "图论与组合数学讨论班"
 event_url: ""
 location: 北衡楼 1216
@@ -21,7 +21,7 @@ publishDate: '2025-05-21T12:00:00+08:00'
 authors: [路宇轩]
 featured: false
 image:
-  caption: '第4次讨论班海报'
+  caption: '第4期讨论班海报'
   focal_point: Right
   filename: poster.webp
 math: true

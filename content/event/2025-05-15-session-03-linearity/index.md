@@ -1,5 +1,5 @@
 ---
-title: "期望的线性性质（续）"
+title: "第三期图论与组合数学读书班"
 event: "图论与组合数学讨论班"
 event_url: ""
 location: 北衡楼 1216
@@ -21,7 +21,7 @@ publishDate: '2025-05-14T12:00:00+08:00'
 authors: [路宇轩]
 featured: false
 image:
-  caption: '第3次讨论班海报'
+  caption: '第3期讨论班海报'
   focal_point: Right
   filename: poster.webp
 math: true

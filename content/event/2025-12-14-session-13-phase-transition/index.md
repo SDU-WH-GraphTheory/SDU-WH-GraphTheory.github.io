@@ -1,5 +1,5 @@
 ---
-title: "E-R 随机图中的相变现象"
+title: "第十三期图论与组合数学读书班"
 event: "图论与组合数学讨论班"
 event_url: ""
 location: 北衡楼 1216
@@ -21,7 +21,7 @@ publishDate: '2025-12-10T12:00:00+08:00'
 authors: [付智旋]
 featured: false
 image:
-  caption: '第13次讨论班海报'
+  caption: '第13期讨论班海报'
   focal_point: Right
   filename: poster.webp
 math: true

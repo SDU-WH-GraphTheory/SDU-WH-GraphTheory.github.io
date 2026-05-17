@@ -45,8 +45,8 @@ git push -u origin your-branch
 **Frontmatter 模板**（必须使用 `math: true`）：
 ```yaml
 ---
-title: "讨论班主题"
-event: "图论与组合数学讨论班"
+title: "第XX期图论与组合数学读书班"
+event: "图论与组合数学读书班"
 event_url: ""
 location: 北衡楼 1216
 address:
@@ -62,9 +62,9 @@ publishDate: 'YYYY-MM-DDTHH:MM:00+08:00'
 authors: [主讲人]
 featured: false
 image:
-  caption: '第X次讨论班海报'
+  caption: '第X期讨论班海报'
   focal_point: Right
-  filename: poster.png
+  filename: poster.webp
 math: true
 ---
 ```
@@ -111,9 +111,12 @@ title: 文章标题
 date: YYYY-MM-DD
 authors: [作者]
 summary: 摘要
+math: true
 ---
-正文，支持 Markdown + LaTeX...
+正文，支持 Markdown + LaTeX（\(...\) / \[...\]）...
 ```
+
+- 必须包含 `math: true`，否则 LaTeX 公式不会渲染
 
 ## 网站配置
 

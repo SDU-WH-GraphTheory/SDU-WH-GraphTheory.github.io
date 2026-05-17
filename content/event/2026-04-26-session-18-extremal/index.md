@@ -1,5 +1,5 @@
 ---
-title: "图染色的极值问题（一）：Hadwiger 猜想与全染色"
+title: "第十八期图论与组合数学读书班"
 event: "图论与组合数学讨论班"
 event_url: ""
 location: 北衡楼 1216
@@ -19,7 +19,7 @@ publishDate: '2026-04-20T12:00:00+08:00'
 authors: [许凌霄]
 featured: false
 image:
-  caption: '第18次讨论班海报'
+  caption: '第18期讨论班海报'
   focal_point: Right
   filename: poster.webp
 math: true

@@ -1,5 +1,5 @@
 ---
-title: "图染色的极值问题（二）：Lovász Local Lemma 与全染色"
+title: "第十九期图论与组合数学读书班"
 event: "图论与组合数学讨论班"
 event_url: ""
 location: 北衡楼 1216
@@ -19,7 +19,7 @@ publishDate: '2026-05-05T12:00:00+08:00'
 authors: [许凌霄]
 featured: false
 image:
-  caption: '第19次讨论班海报'
+  caption: '第19期讨论班海报'
   focal_point: Right
   filename: poster.webp
 math: true

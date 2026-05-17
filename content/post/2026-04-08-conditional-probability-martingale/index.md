@@ -3,6 +3,7 @@ title: 条件概率与 Martingale 理论基础串联讨论纪要
 date: 2026-04-08
 authors: [路宇轩]
 summary: 复习条件概率等相关的基础知识，解答4月7日讨论的问题中有关 martingale 计算的问题。
+math: true
 ---
 
 本次讨论主要复习了条件概率、条件期望、σ-代数等基础概念，并将这些概念串联起来，解释了 martingale 的理论基础。通过系统梳理，我们明确了从条件概率到 martingale 的完整逻辑链条。

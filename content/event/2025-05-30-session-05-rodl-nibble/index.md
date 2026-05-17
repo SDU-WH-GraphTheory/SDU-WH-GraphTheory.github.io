@@ -1,5 +1,5 @@
 ---
-title: "Rödl Nibble 方法"
+title: "第五期图论与组合数学读书班"
 event: "图论与组合数学讨论班"
 event_url: ""
 location: 北衡楼 1216
@@ -23,7 +23,7 @@ publishDate: '2025-05-30T12:00:00+08:00'
 authors: [路宇轩]
 featured: false
 image:
-  caption: '第5次讨论班海报'
+  caption: '第5期讨论班海报'
   focal_point: Right
   filename: poster.webp
 math: true
