@@ -21,7 +21,7 @@ featured: false
 image:
   caption: '第19次讨论班海报'
   focal_point: Right
-  filename: poster.png
+  filename: poster.webp
 math: true
 ---
 
@@ -39,4 +39,4 @@ math: true
 
 ## 海报
 
-![第19次讨论班海报](/uploads/posters/haibao.png)
+![第19次讨论班海报](/uploads/posters/haibao.webp)

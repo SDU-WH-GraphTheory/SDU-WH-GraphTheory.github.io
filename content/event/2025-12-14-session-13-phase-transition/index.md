@@ -23,7 +23,7 @@ featured: false
 image:
   caption: '第13次讨论班海报'
   focal_point: Right
-  filename: poster.png
+  filename: poster.webp
 math: true
 ---
 
@@ -42,4 +42,4 @@ math: true
 
 ## 海报
 
-![第13次讨论班海报](/uploads/posters/讨论班海报(13).png)
+![第13次讨论班海报](/uploads/posters/讨论班海报(13).webp)

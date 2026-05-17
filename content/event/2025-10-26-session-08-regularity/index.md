@@ -23,7 +23,7 @@ featured: false
 image:
   caption: '第8次讨论班海报'
   focal_point: Right
-  filename: poster.png
+  filename: poster.webp
 math: true
 ---
 
@@ -42,4 +42,4 @@ math: true
 
 ## 海报
 
-![第8次讨论班海报](/uploads/posters/图论与组合数学讨论班系列(8).png)
+![第8次讨论班海报](/uploads/posters/图论与组合数学讨论班系列(8).webp)

@@ -23,7 +23,7 @@ featured: false
 image:
   caption: '秋季第一次讨论班海报'
   focal_point: Right
-  filename: poster.png
+  filename: poster.webp
 math: true
 ---
 
@@ -42,4 +42,4 @@ math: true
 
 ## 海报
 
-![秋季第一次讨论班海报](/uploads/posters/2025秋第一次讨论班海报.png)
+![秋季第一次讨论班海报](/uploads/posters/2025秋第一次讨论班海报.webp)

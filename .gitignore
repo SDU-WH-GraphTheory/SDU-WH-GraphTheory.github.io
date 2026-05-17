@@ -4,6 +4,9 @@
 # IDEs
 .idea/
 
+# Claude Code local settings
+.claude/
+
 # Hugo
 /resources/
 /public/
