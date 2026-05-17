@@ -1,0 +1,11 @@
+# macOS
+.DS_Store
+
+# IDEs
+.idea/
+
+# Hugo
+/resources/
+/public/
+assets/jsconfig.json
+.hugo_build.lock
